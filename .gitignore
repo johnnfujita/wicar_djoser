@@ -146,4 +146,7 @@ dmypy.json
 # pytype static type analyzer
 .pytype/
 
+private_config.csv
+read_csv.py
+
 # End of https://www.toptal.com/developers/gitignore/api/django
